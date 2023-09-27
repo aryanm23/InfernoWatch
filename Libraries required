@@ -1,0 +1,38 @@
+List of libraries to be installed:
+
+glob
+cv2 (OpenCV)
+matplotlib.pyplot (Matplotlib)
+random
+pandas
+numpy
+seaborn
+tensorflow (TensorFlow)
+sklearn.model_selection (Scikit-Learn)
+tensorflow.keras.models.Sequential
+tensorflow.keras.layers.Conv2D
+tensorflow.keras.layers.MaxPooling2D
+tensorflow.keras.layers.Flatten
+tensorflow.keras.layers.Dense
+tensorflow.keras.callbacks.EarlyStopping
+sklearn.metrics.confusion_matrix
+sklearn.metrics.classification_report
+tkinter (Python's standard GUI library)
+tkinter.filedialog (Part of tkinter)
+PIL (Python Imaging Library, Pillow)
+PIL.Image (Part of Pillow)
+PIL.ImageTk (Part of Pillow)
+tensorflow.keras.preprocessing.image (TensorFlow's image preprocessing)
+tensorflow.keras.preprocessing.image.ImageDataGenerator
+
+Commands: 
+
+pip install glob2
+pip install opencv-python
+pip install matplotlib
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install tensorflow
+pip install scikit-learn
+pip install pillow
